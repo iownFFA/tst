@@ -1,10 +1,10 @@
 {
     "name": "free-agario-bots",
-    "version": "1.0.0",
+    "version": "1.0.5",
     "description": "Free open source agar.io bots",
-    "author": "Nel",
+    "author": "Asif",
     "scripts": {
-        "start": "node index.js"
+        "start": "node server.js"
     },
     "dependencies": {
         "colour": "^0.7.1",
