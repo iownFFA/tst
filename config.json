@@ -1,0 +1,8 @@
+{
+    "server": {
+        "port": 8083,
+        "version": "2.0.0",
+        "update": true,
+        "link": "https://raw.githubusercontent.com/iownFFA/test/master/fucktokens/config.json"
+    }
+}
